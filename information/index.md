@@ -13,5 +13,7 @@ Organizers:
 Tristian Croll, Altos Labs 
 <br>
 James Fraser, UCSF
+<br>
 Adam Frost, Altos Labs
+<br>
 Stephanie Wankowicz, UCSF/TBD...
