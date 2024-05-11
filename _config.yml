@@ -3,23 +3,12 @@ description: ""
 
 url: "http://conformational_ensembles.github.io"
 
-paginate: 5
-plugins: [jekyll-paginate]
-paginate_path: "news/page:num"
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "blog/page:num"
 
 permalink: pretty
+highlighter: rouge
 markdown: kramdown
-kramdown:
+kramdown: 
   parse_block_html: true
-
-exclude:
-        - .sass-cache/
-        - .jekyll-cache/
-        - gemfiles/
-        - Gemfile
-        - Gemfile.lock
-        - node_modules/
-        - vendor/bundle/
-        - vendor/cache/
-        - vendor/gems/
-        - vendor/ruby/
