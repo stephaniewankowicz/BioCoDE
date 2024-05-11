@@ -10,7 +10,8 @@ The conference will be from 9-5 pm on June 17th and June 18th at Altos Labs (add
 
 Organizers:
 
-Tristian Croll, Altos Labs
+Tristian Croll, Altos Labs 
+<br>
 James Fraser, UCSF
 Adam Frost, Altos Labs
-Stephanie Wankowicz, UCSF
+Stephanie Wankowicz, UCSF/TBD...
