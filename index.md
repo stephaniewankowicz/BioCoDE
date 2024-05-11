@@ -1,19 +1,19 @@
 ---
-title: Fraser Lab
+title: Conformational Ensemble
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
+# Macromolecular Conformational Ensemble Conference!
 {: .display-4}
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/).
+The next frontier of structural biology is bridging functional states and scales to understand how conformational and compositional dynamics impact molecular functions. Despite great progress in experimental and computational approaches, many pivotal questions linger. These include exploring dynamics in transient biology events, the mechanisms underpinning long-range structural interactions within proteins, the alterations in the protein conformational landscape triggered by binding events or the formation of complexes, and, crucially, the implications of these processes for in vivo observations. We will convene a multidisciplinary assembly of experts to exchange innovative experimental and computational strategies to enable insights about structural dynamics across scales, from atomistic to cellular modeling.
 {: .welcomefont}
 
 ![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
 
-Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
+
 {: .welcomefont}
 
-We are located in Genentech Hall at the Mission Bay Campus of UCSF.
+The conference will take place on June 17th/18th at Altos Labs.
 {: .welcomefont}
