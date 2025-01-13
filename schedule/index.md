@@ -5,61 +5,101 @@ group: schedule
 ---
 
 # Schedule
-## Monday June 17th
+## Tuesday, May 27th
 
-8:30 AM - Coffee & Snacks provided by Altos
+9:00 AM - Welcome and introduction by Stephanie Wankowicz
 
-9 AM - Welcome JF
+*introduction to protein & protein structure*
+12:00 PM - Lunch
 
-9:15 - 9:45: Stephanie
+1:00 PM
 
-9:45-10:15: Doeke
+4:00 PM - END OF DAY
 
-10:15-10:45: BREAK
+## Wednesday, May 28th
 
-10:45-11:15: Rachael	
+9:00 AM 
+*basics of python*
 
-11:15-11:45: Pavel: Phenix Tools for Modeling Conformational Heterogeneity in Crystallography and Cryo-EM Data
+12:00 PM - Lunch
 
-11:45-12:15: Tristian
+1:00 PM
 
-12:15-1:30: LUNCH
+*tour of NMR facilities*
 
-1:30-2:00: Frank Noe
+4:00 PM - END OF DAY
 
-2:00-2:30: Bowen
+## Thursday, May 29th
 
-2:30-3:15: BREAK - Coffee & Snack provided by Altos
+9:00 AM 
+*python: basics + data exploration*
 
-3:15-3:45: Max Bonomi: Bayesian approaches for integrative determination of protein conformational ensembles
+12:00 PM - Lunch
 
-3:45-4:15: Andrew Natale
+1:00 PM
 
-4:30-7: Happy hour with food? Needs to be at least for all speakers, plus local guests (plan on a space that can accommodate 50). Bar/brewery with passed apps and a dedicated space.  2-3K
+*tour of cyroEM facilities*
 
-## Tuesday June 18th
+4:00 PM - END OF DAY
 
-8:30AM - Coffee & Snacks provided by Altos
+## Friday, May 30th
 
-9AM - Welcome AF
+9:00 AM 
+*python: data exploration + graphing + statistics*
 
-9:15 - 9:45: Kiarish
+12:00 PM - Lunch
 
-9:45-10:15: Yirogo
+1:00 PM
 
-10:15-10:30: BREAK 
+4:00 PM - END OF DAY
 
-10:30-11:00: Aniket Tolpadi 	
 
-11:00-11:30: Ellen Zhong
+## Monday, June 1st
 
-11:30-12:00: Arthur Zalevsky: 
+9:00 AM 
+RESEARCH
 
-12:00-1:00: LUNCH
+12:00 PM - Lunch
 
-1:00-3:00: Breakout groups on remixing ideas and material
 
-3:00-4:30: Share work- HOW SHOULD THIS BE STRUCTURED?
+4:00 PM - END OF DAY
 
-6:00: Barebottle 
+## Tuesday, June 2nd
 
+9:00 AM 
+RESEARCH
+
+12:00 PM - Lunch
+
+
+4:00 PM - END OF DAY
+
+## Wednesday, June 3rd
+
+9:00 AM 
+RESEARCH
+
+12:00 PM - Lunch
+
+
+4:00 PM - END OF DAY
+
+## Monday, June 1st
+
+9:00 AM 
+RESARCH
+
+12:00 PM - Lunch
+
+
+4:00 PM - END OF DAY
+
+## Monday, June 1st
+
+9:00 AM 
+RESARCH
+
+12:00 PM - Lunch
+
+
+4:00 PM - END OF DAY
