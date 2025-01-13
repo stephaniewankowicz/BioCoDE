@@ -1,7 +1,7 @@
-name: "Macromolecular Conformational Ensemble Conference"
+name: "BioCoDE: Biomedical & Computational Discovery Experience"
 description: ""
 
-url: "http://conformational_ensembles.github.io"
+url: "http://biocode.github.io"
 
 gems: [jekyll-paginate]
 paginate: 10
