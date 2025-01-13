@@ -1,3 +1,9 @@
+---
+title: FAQs
+layout: default
+group: FAQs
+---
+
 1. Are there any costs associated with the program?
    There are no costs associated with the program. Lunch will be provided for all days of the program.
 
