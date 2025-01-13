@@ -1,23 +1,16 @@
 ---
-title: Speakers
+title: Organizers and Teachers
 layout: default
-group: Speakers
+group: Organizer
 ---
+
+# Organizer
+Stephanie Wankowicz, PhD
+
+# Module Leaders
+
+# Teaching Assistants
 
 # Speakers
 
-##### See the [schedule here](/schedule/)
-
-Doeke Hekstra
-Bowen Jiang
-Rachael Kretsch
-Max Bonomi
-Ellen Zhong
-Yirogo Skiniotis
-Pavel Afonine
-Andrew Natale
-Aniket Tolpadi
-Tristian Croll
-Adam Frost
-James Fraser
-Stephanie Wankowicz	
+# Research Mentors
