@@ -7,32 +7,37 @@ group: schedule
 # Schedule
 ## Tuesday, May 27th
 
-9:00 AM - Welcome and introduction by Stephanie Wankowicz
+9:00 AM - Welcome and introduction by Dr. Wankowicz
 
-*introduction to protein & protein structure*
+9:45 AM - Introduction to Protein Structure
+
 12:00 PM - Lunch
 
-1:00 PM
+12:45 PM - Protein Structure & Pymol Tutorial
+
+3:00 PM - Tour of NMR Facility
 
 4:00 PM - END OF DAY
 
 ## Wednesday, May 28th
 
-9:00 AM 
-*basics of python*
+9:00 AM - Python basics
+
+11:30 AM - Science Journey Talk
 
 12:00 PM - Lunch
 
-1:00 PM
+12:45 PM - Python basics
 
-*tour of NMR facilities*
+3:00 PM - Panel:  Undergrad & Grad Research
 
 4:00 PM - END OF DAY
 
 ## Thursday, May 29th
 
-9:00 AM 
-*python: basics + data exploration*
+9:00 AM - Python basics & data exploration
+
+10:30 AM - Tour of cryoEM facilities
 
 12:00 PM - Lunch
 
