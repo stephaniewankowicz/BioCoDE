@@ -5,12 +5,23 @@ To apply, please fill out the application below. The application requires the co
 
 
 Name
+
 Email
+
 Phone Number
+
+Address
+
 Adult Contact Name, email, phone number
+
 Year in High School for the 2024-2025 school year
+
 Current High School
+
 What science courses have you participated in?
+
 Why are you interested in participating in the BioCoDE program?
+
 Reference One Name, email, phone number
+
 Reference Two Name, email, phone number
