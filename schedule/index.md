@@ -17,7 +17,6 @@ group: schedule
 
 3:00 PM - Tour of NMR Facility
 
-4:00 PM - END OF DAY
 
 ## Wednesday, May 28th
 
@@ -29,9 +28,8 @@ group: schedule
 
 12:45 PM - Python basics
 
-3:00 PM - Panel:  Undergrad & Grad Research
+3:00 PM - Panel: Undergrad & Grad Research
 
-4:00 PM - END OF DAY
 
 ## Thursday, May 29th
 
@@ -41,11 +39,9 @@ group: schedule
 
 12:00 PM - Lunch
 
-1:00 PM
+12:45 PM - Data exploration with Python
 
-*tour of cyroEM facilities*
-
-4:00 PM - END OF DAY
+3:30 PM - Science Journey Talk
 
 ## Friday, May 30th
 
