@@ -10,9 +10,9 @@
   link: "/organizers"
   group: organizers
 
-- name: register
-  link: "/register"
-  group: register
+- name: application
+  link: "/application"
+  group: application
 
 - name: FAQs
   link: "/faqs"
