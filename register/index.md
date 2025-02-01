@@ -1,3 +1,9 @@
+---
+title: Application
+layout: default
+group: application
+---
+
 We are excited to welcome you to BioCoDE! 
 
 
