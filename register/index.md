@@ -1,27 +1,7 @@
 We are excited to welcome you to BioCoDE! 
 
 
-To apply, please fill out the application below. The application requires the contact for two recommenders. These individuals do not need to be science-related but should be able to speak about you as a student and/or worker. 
+To apply, please fill out the [application here](https://redcap.vumc.org/surveys/?s=RAY7TR7HAE7Y3DL3). You will be asked to provide two references. These people do not need to be involved in science but should be able to speak about you as a student or worker.
 
+Decisions will be determined in early April.
 
-Name
-
-Email
-
-Phone Number
-
-Address
-
-Adult Contact Name, email, phone number
-
-Year in High School for the 2024-2025 school year
-
-Current High School
-
-What science courses have you participated in?
-
-Why are you interested in participating in the BioCoDE program?
-
-Reference One Name, email, phone number
-
-Reference Two Name, email, phone number
