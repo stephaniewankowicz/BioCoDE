@@ -7,7 +7,7 @@ group: schedule
 # Schedule
 ## Tuesday, May 27th
 
-9:00 AM - Welcome and introduction by Dr. Wankowicz
+9:00 AM - Welcome and introduction by [Dr. Stephanie Wankowicz](wankowiczlab.com)
 
 9:45 AM - Introduction to Protein Structure
 
